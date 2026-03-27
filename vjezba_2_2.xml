@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <knjiznice>
+  <!-- Gradska knjižnica -->
   <knjiznica name="Gradska" adresa="Ilica 20, Zagreb">
     <knjiga id="G1">
       <naziv>Na Drini ćuprija</naziv>
@@ -17,7 +18,8 @@
       <primjerci>3</primjerci>
     </knjiga>
   </knjiznica>
-  
+
+  <!-- Fakultetska knjižnica -->
   <knjiznica name="Fakultetska" adresa="Vukovarska 58, Split">
     <knjiga id="F1">
       <naziv>C Programiranje</naziv>
