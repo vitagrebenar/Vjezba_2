@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <knjiznice>
   <!-- Gradska knjižnica -->
-  <knjiznica name="Gradska" adresa="Ilica 20, Zagreb">
+  <knjiznica naziv="Gradska" adresa="Ilica 20, Zagreb">
     <knjiga id="G1">
       <naziv>Na Drini ćuprija</naziv>
       <autor>Ivo Andrić</autor>
@@ -20,7 +20,7 @@
   </knjiznica>
 
   <!-- Fakultetska knjižnica -->
-  <knjiznica name="Fakultetska" adresa="Vukovarska 58, Split">
+  <knjiznica naziv="Fakultetska" adresa="Vukovarska 58, Split">
     <knjiga id="F1">
       <naziv>C Programiranje</naziv>
       <autor>Brian Kernighan</autor>
